@@ -55,6 +55,10 @@
     padding-left: 300px;
    }
 
+   .col-5 {
+     width: 100%;
+   }
+
  .left_padding {
    margin: 5px;
 
