@@ -23,6 +23,10 @@
   clear: both;
 }
 
+.shadow-main {
+  margin: 30px;
+}
+
 .shadow-1 {
   min-height: : 500px;
   max-width: 600px;
