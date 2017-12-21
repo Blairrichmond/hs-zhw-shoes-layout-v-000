@@ -45,9 +45,15 @@
     float: right;
     width: 31%;
     margin: 5px;
-    display: inline-block;
 
   }
+
+  .col-4 {
+     float: left;
+     width: 32%;
+     margin: 5px;
+
+   }
 
  .left_padding {
    margin: 5px;
