@@ -23,37 +23,3 @@
   clear: both;
 }
 
-.shadow-main {
-  margin: 20px;
-}
-
-.shadow-1 {
-  height: : 500px;
-  width: 700px;
-  text-align: left;
-  margin: 20px;
-}
-
-.shadow-2 {
-  height: 600px;
-  width: 300px;
-  text-align: left;
-  float: right;
-  margin: 20px;
-  display: block;
-}
-
-.shadow {
-  height: 350px;
-  width: 300px;
-  text-align: left;
-  display: inline-block;
-  margin: 20px, auto, 20px, auto;
-
-}
-
-.details {
-  clear: both;
-  text-align: center;
-  box-sizing: border-box;
-}
