@@ -24,14 +24,14 @@
 }
 
 .shadow-main {
-  margin: 30px;
+  margin: 20px;
 }
 
 .shadow-1 {
   height: : 500px;
   width: 700px;
   text-align: left;
-  margin: 30px;
+  margin: 20px;
 }
 
 .shadow-2 {
@@ -39,7 +39,7 @@
   width: 300px;
   text-align: left;
   float: right;
-  margin: 30px;
+  margin: 20px;
   display: block;
 }
 
@@ -48,5 +48,5 @@
   width: 300px;
   text-align: left;
   display: inline-block;
-  margin: 30px;
+  margin: 20px;
 }
