@@ -41,6 +41,13 @@
 
  }
 
+ .col-3 {
+    float: left;
+    width: 31%;
+    margin: 5px;
+
+  }
+
  .left_padding {
    margin: 5px;
 
