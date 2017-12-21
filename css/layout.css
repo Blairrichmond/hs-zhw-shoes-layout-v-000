@@ -22,6 +22,6 @@
   clear: both;
 }
 
-#shadow {
-  padding: 10px;
+#shadow-1 {
+  box-sizing: border-box;
 }
