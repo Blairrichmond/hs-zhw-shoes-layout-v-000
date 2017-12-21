@@ -51,7 +51,8 @@
   .col-4 {
      float: left;
      width: 32%;
-     margin: 5px;
+     margin: 5px, auto, 5px, auto;
+     
 
    }
 
