@@ -26,3 +26,8 @@
 .margin-right {
   margin-right: 2px;
 }
+
+.column-2 {
+  float: left;
+  margin: 66px;
+}
