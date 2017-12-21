@@ -67,3 +67,7 @@
  [class*="col-"] {
    margin-bottom: 2%;
  }
+
+ .footer {
+   clear: both;
+ }
