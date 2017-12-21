@@ -1,4 +1,18 @@
-/********** Fixes **********/
+#shadow-1 {
+  min-width: 500px;
+  max-width: 600px;
+  text-align: left;
+  margin: 0px;
+}
+
+#shadow-2 {
+  min-width: 500px;
+  max-width: 600px;
+  text-align: left;
+  float: right;
+  margin: 0px;
+}
+
 
 * {
   margin:0;
@@ -22,17 +36,3 @@
   clear: both;
 }
 
-#shadow-1 {
-  min-width: 500px;
-  max-width: 600px;
-  text-align: left;
-  margin: 0px;
-}
-
-#shadow-2 {
-  min-width: 500px;
-  max-width: 600px;
-  text-align: left;
-  float: right;
-  margin: 0px;
-}
