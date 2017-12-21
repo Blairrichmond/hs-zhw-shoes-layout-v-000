@@ -24,14 +24,14 @@
 }
 
 .shadow-1 {
-  min-width: 500px;
+  min-height: : 500px;
   max-width: 600px;
   text-align: left;
   margin: 20px, 20px, 20px, auto;
 }
 
 .shadow-2 {
-  min-width: 500px;
+  min-height: : 500px;
   max-width: 300px;
   text-align: left;
   float: right;
