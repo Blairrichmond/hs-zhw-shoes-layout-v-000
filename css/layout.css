@@ -47,6 +47,6 @@
   height: 500px;
   width: 300px;
   text-align: left;
-
+  display: inline-block;
   margin: 30px;
 }
