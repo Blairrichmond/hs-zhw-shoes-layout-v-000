@@ -27,7 +27,7 @@
   min-height: : 500px;
   max-width: 600px;
   text-align: left;
-  margin: 20px, 20px, 20px, auto;
+  margin: 10px, 10px, 10px, auto;
 }
 
 .shadow-2 {
@@ -35,5 +35,5 @@
   max-width: 300px;
   text-align: left;
   float: right;
-  margin: 30px, 30px, 30px, auto;
+  margin: 0px;
 }
