@@ -30,5 +30,9 @@
 }
 
 #shadow-2 {
-  float:right;
+  min-width: 500px;
+  max-width: 600px;
+  text-align: left;
+  float: right;
+  margin: 10px, 10px, 10px, auto;
 }
