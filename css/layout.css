@@ -25,3 +25,7 @@
 #shadow-1 {
   box-sizing: border-box;
 }
+
+#shadow-2 {
+  float:right;
+}
