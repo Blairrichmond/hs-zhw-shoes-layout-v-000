@@ -23,14 +23,14 @@
   clear: both;
 }
 
-#shadow-1 {
+.shadow-1 {
   min-width: 500px;
   max-width: 600px;
   text-align: left;
   margin: 10px;
 }
 
-#shadow-2 {
+.shadow-2 {
   min-width: 500px;
   max-width: 600px;
   text-align: left;
