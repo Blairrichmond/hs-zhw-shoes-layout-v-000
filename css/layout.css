@@ -23,6 +23,10 @@
   clear: both;
 }
 
+.shadow {
+  margin: 5px;
+}
+
 .col-1 {
    float: left;
    width: 32%;
