@@ -40,7 +40,8 @@
 
  }
  .margin_right {
-   margin-right: 2%;
+   margin: 2%;
+   
  }
 
  [class*="col-"] {
